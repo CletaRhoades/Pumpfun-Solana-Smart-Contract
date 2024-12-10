@@ -11,4 +11,4 @@ If you're interested in having the Pump.fun smart contract access or have any do
 You can check the tx to Remove vitual LP and Create Raydium Pool in this smart contract with CPI calls.  
 https://explorer.solana.com/tx/4L6MWmtV1ZsT8NFfbtu68ZYyYVbpvZ4iynJhPdZw8jESi28TxwojjTFs88Q5QRdNUb297aWfkKcoYP9Ya8npx8AV?cluster=devnet
 
-###  If you found this helpful, don't forget to <a href="https://github.com/sourlodine">follow</a> me.
+###  If you found this helpful, don't forget to <a href="https://github.com/sourlodine">follow</a> me. thanks
